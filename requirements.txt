@@ -18,5 +18,5 @@ lxml==4.6.5
 pytz
 grequests==0.3.0
 pymodbus
-django-encrypted-model-fields==0.5.8
+django-encrypted-model-fields==0.6.5
 python-gnupg==0.4.9
