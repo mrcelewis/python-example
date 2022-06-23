@@ -1,6 +1,6 @@
 PyYAML>3.11
 nltk
-Django==1.11.20
+Django==2.2.25
 djangorestframework==3.13.1
 Flask==1.1.4
 Flask-Cors==2.1.2
