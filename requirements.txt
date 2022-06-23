@@ -14,7 +14,7 @@ PyYAML==4.2b4
 requests==2.23.0
 requests_viewer==0.0.12
 requests[security]==2.21.0
-lxml==4.3.3
+lxml==4.6.5
 pytz
 grequests==0.3.0
 pymodbus
