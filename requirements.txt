@@ -16,7 +16,7 @@ requests_viewer==0.0.12
 requests[security]==2.21.0
 lxml==4.6.5
 pytz
-grequests==0.3.0
+grequests==0.6.0
 pymodbus
 django-encrypted-model-fields==0.6.5
 python-gnupg==0.4.9
