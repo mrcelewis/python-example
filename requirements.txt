@@ -11,9 +11,9 @@ formencode==2.0.1
 MySQL-python==1.2.5; python_version < '3.0'
 mysqlclient==2.1.1; python_version >= '3.0'
 PyYAML==6.0
-requests==2.28.0
+requests==2.28.1
 requests_viewer==0.0.12
-requests[security]==2.28.0
+requests[security]==2.28.1
 lxml==4.9.0
 pytz
 grequests==0.6.0
